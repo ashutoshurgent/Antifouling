@@ -33,7 +33,7 @@ function App() {
     });
 
     try {
-      const response = await fetch('https://antifouling-tool.onrender.com/calculate', {
+      const response = await fetch('https://antifouling-tool.onrender.com/', {
         method: 'POST',
         body: data,
       });
