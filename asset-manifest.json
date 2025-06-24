@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Antfouling.git/static/css/main.73c27e49.css",
-    "main.js": "/Antfouling.git/static/js/main.ed9b1dad.js",
-    "static/js/453.69630131.chunk.js": "/Antfouling.git/static/js/453.69630131.chunk.js",
-    "static/media/paintpic.jpg": "/Antfouling.git/static/media/paintpic.73ff9589a74f6c6386c3.jpg",
-    "index.html": "/Antfouling.git/index.html",
-    "main.73c27e49.css.map": "/Antfouling.git/static/css/main.73c27e49.css.map",
-    "main.ed9b1dad.js.map": "/Antfouling.git/static/js/main.ed9b1dad.js.map",
-    "453.69630131.chunk.js.map": "/Antfouling.git/static/js/453.69630131.chunk.js.map"
+    "main.css": "/Antfouling/static/css/main.3aaebf2a.css",
+    "main.js": "/Antfouling/static/js/main.f27c0ed7.js",
+    "static/js/453.69630131.chunk.js": "/Antfouling/static/js/453.69630131.chunk.js",
+    "static/media/paintpic.jpg": "/Antfouling/static/media/paintpic.73ff9589a74f6c6386c3.jpg",
+    "index.html": "/Antfouling/index.html",
+    "main.3aaebf2a.css.map": "/Antfouling/static/css/main.3aaebf2a.css.map",
+    "main.f27c0ed7.js.map": "/Antfouling/static/js/main.f27c0ed7.js.map",
+    "453.69630131.chunk.js.map": "/Antfouling/static/js/453.69630131.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73c27e49.css",
-    "static/js/main.ed9b1dad.js"
+    "static/css/main.3aaebf2a.css",
+    "static/js/main.f27c0ed7.js"
   ]
 }
