@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Antfouling.git/static/css/main.73c27e49.css",
-    "main.js": "/Antfouling.git/static/js/main.5a746573.js",
+    "main.js": "/Antfouling.git/static/js/main.ed9b1dad.js",
     "static/js/453.69630131.chunk.js": "/Antfouling.git/static/js/453.69630131.chunk.js",
     "static/media/paintpic.jpg": "/Antfouling.git/static/media/paintpic.73ff9589a74f6c6386c3.jpg",
     "index.html": "/Antfouling.git/index.html",
     "main.73c27e49.css.map": "/Antfouling.git/static/css/main.73c27e49.css.map",
-    "main.5a746573.js.map": "/Antfouling.git/static/js/main.5a746573.js.map",
+    "main.ed9b1dad.js.map": "/Antfouling.git/static/js/main.ed9b1dad.js.map",
     "453.69630131.chunk.js.map": "/Antfouling.git/static/js/453.69630131.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73c27e49.css",
-    "static/js/main.5a746573.js"
+    "static/js/main.ed9b1dad.js"
   ]
 }
