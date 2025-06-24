@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Antfouling/static/css/main.3aaebf2a.css",
-    "main.js": "/Antfouling/static/js/main.f27c0ed7.js",
-    "static/js/453.69630131.chunk.js": "/Antfouling/static/js/453.69630131.chunk.js",
-    "static/media/paintpic.jpg": "/Antfouling/static/media/paintpic.73ff9589a74f6c6386c3.jpg",
-    "index.html": "/Antfouling/index.html",
-    "main.3aaebf2a.css.map": "/Antfouling/static/css/main.3aaebf2a.css.map",
-    "main.f27c0ed7.js.map": "/Antfouling/static/js/main.f27c0ed7.js.map",
-    "453.69630131.chunk.js.map": "/Antfouling/static/js/453.69630131.chunk.js.map"
+    "main.css": "/Antifouling/static/css/main.907b0578.css",
+    "main.js": "/Antifouling/static/js/main.ace84d69.js",
+    "static/js/453.69630131.chunk.js": "/Antifouling/static/js/453.69630131.chunk.js",
+    "static/media/paintpic.jpg": "/Antifouling/static/media/paintpic.73ff9589a74f6c6386c3.jpg",
+    "index.html": "/Antifouling/index.html",
+    "main.907b0578.css.map": "/Antifouling/static/css/main.907b0578.css.map",
+    "main.ace84d69.js.map": "/Antifouling/static/js/main.ace84d69.js.map",
+    "453.69630131.chunk.js.map": "/Antifouling/static/js/453.69630131.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3aaebf2a.css",
-    "static/js/main.f27c0ed7.js"
+    "static/css/main.907b0578.css",
+    "static/js/main.ace84d69.js"
   ]
 }
